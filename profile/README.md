@@ -45,4 +45,4 @@
 
 ## Metrics
 
-![Metrics](https://gist.github.com/scarf005/cc4f487f63e3f76e60106902f873a76b#file-cursus_metrics-svg)
+<img src="https://raw.githubusercontent.com/gist/scarf005/cc4f487f63e3f76e60106902f873a76b/raw/1429a52deec5845d734816598daff1d515a07824/cursus_metrics.svg"></img>
