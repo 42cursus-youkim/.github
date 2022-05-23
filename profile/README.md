@@ -18,7 +18,7 @@
 |        | [**NetPractice**](https://github.com/42cursus-youkim/netpractice)          |    -     | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2580588) | 2022-05-06 | 5.25  |
 | **05** | [**ft_containers**](https://github.com/42cursus-youkim/containers)         |   C++    | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2583179) |     -      |   -   |
 |        | [**Inception**]()                                                          |    -     | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2583180) |     -      |   -   |
-|        | [**webserv**]()                                                            |   C++    | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2583179) |     -      |   -   |
+|        | [**webserv**](https://github.com/exciting-webserv/webserv)                 |   C++    | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2583179) |     -      |   -   |
 
 ## :wrench: 42 Utils
 
