@@ -46,4 +46,4 @@
 
 ## Metrics
 
-[<img src="https://gist.githubusercontent.com/scarf005/cc4f487f63e3f76e60106902f873a76b/raw/d610425ab66c985f1dd1d0be4421ecaa422ef620/cursus_metrics.svg"></img>](#)
+[<img src="https://gist.githubusercontent.com/scarf005/cc4f487f63e3f76e60106902f873a76b/raw/66ab56f35a770cfaaf1605b8b53fc1d8d8fce6d4/cursus_metrics.svg"></img>](#)
