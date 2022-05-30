@@ -19,6 +19,7 @@
 | **05** | [**ft_containers**](https://github.com/42cursus-youkim/containers)         |   C++    | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2583179) |     -      |   -   |
 |        | [**Inception**]()                                                          |    -     | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2583180) |     -      |   -   |
 |        | [**webserv**](https://github.com/exciting-webserv/webserv)                 |   C++    | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2583179) |     -      |   -   |
+|        | [**Exam Rank 04**](https://github.com/42cursus-youkim/exam-04)             |    C     | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2580587) |            |       |
 
 ## :wrench: 42 Utils
 
