@@ -6,7 +6,7 @@
 | **01** | [**get_next_line**](https://github.com/42cursus-youkim/Rank01-gnl)         |    C     | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2172194) | 2021-06-15 | 1.46  |
 |        | **Born2beroot**                                                            |    -     | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2178387) | 2021-07-26 | 1.72  |
 |        | [**ft_printf**](https://github.com/42cursus-youkim/Rank01-ft_printf)       |    C     | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2172193) | 2021-08-02 | 2.12  |
-| **02** | [**pipex**](https://github.com/42cursus-youkim/Rank02-pipex)               |    C     | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2270822) | 2021-09-23 | 2.50  |
+| **02** | [**pipex**](https://github.com/42cursus-youkim/Rank02-pipex)               |    C     | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2276917) | 2021-09-23 | 2.50  |
 |        | [**so_long**](https://github.com/42cursus-youkim/Rank02-so_long)           |    C     | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2270822) | 2021-12-03 | 2.89  |
 |        | [**push_swap**](https://github.com/42cursus-youkim/Rank02-push_swap)       |    C     | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2270812) | 2021-12-21 | 3.26  |
 |        | [**Exam Rank 02**](https://github.com/42cursus-youkim/exam-02)             |    C     | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2439361) | 2022-04-26 | 4.68  |
