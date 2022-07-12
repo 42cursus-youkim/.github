@@ -19,7 +19,7 @@
 |        | [**Exam Rank 04**](https://github.com/42cursus-youkim/exam-04)             |    C     | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2580587) | 2022-05-31 | 5.25  |
 | **05** | [**ft_containers**](https://github.com/42cursus-youkim/containers)         |  C++ 98  | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2583178) | 2022-06-01 | 5.94  |
 |        | [**irc**](https://github.com/exciting-IRC/IRC)                             |  C++ 98  | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2607877) | 2022-06-29 | 7.97  |
-|        | [**Inception**](https://github.com/42cursus-youkim/inception)              |   Shell  | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2583180) |     -      |   -   |
+|        | [**Inception**](https://github.com/42cursus-youkim/inception)              |   Shell  | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2583180) | 2022-07-12 | 8.88  |
 |        | [**Exam Rank 05**](https://github.com/42cursus-youkim/exam-05)             |    C++ 98  | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2606736) | 2022-07-08 | 7.98  |
 <!--
 |        | [**Exam Rank 06**](https://github.com/42cursus-youkim/exam-05)             |    C++ 98  | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2606736) | 2022-07-08 | 7.98  |
