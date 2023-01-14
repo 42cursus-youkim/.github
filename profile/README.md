@@ -23,6 +23,7 @@
 |        | [**Exam Rank 05**](https://github.com/42cursus-youkim/exam-05)             |    C++ 98  | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2606736) | 2022-07-08 | 7.98  |
 | **06** | [**ft_transcendence**](https://github.com/exciting-transcendence/transcendence)         | Typescript | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2661237) | 2022-08-26 | 11.15 |
 |        | [**Exam Rank 06**](https://github.com/42cursus-youkim/exam-06)             |     C      | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2661236) | 2022-09-13 | 11.15 |
+| **\*** | [**ft_turing**](https://github.com/42cursus-youkim/turing)         | Haskell | ![](https://badge42.vercel.app/api/v2/cl1pqrsvk005409ml9e9fk7av/project/2780494) | 2022-09-28 | 11.80 |
 
 ## :wrench: 42 Utils
 
